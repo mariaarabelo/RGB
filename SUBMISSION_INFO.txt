@@ -1,0 +1,11 @@
+SUBMISSION INFORMATION
+======================
+
+Group identifier: 18.2
+
+Summary of implemented features:
+- We implemented all the files relative o the Color, Image, Script and XPM2. 
+- We add all the functions relative to the manipulations of the image: invert, to_gray_scale, replace, fill, h_mirror, v_mirror and add. 
+- We add all the functions relative to the dimension-changing operations: crop, rotate_left, rotate_right.
+- We also add all the advanced functionalities: median_filter, xpm2_open and xpm2_save.
+
