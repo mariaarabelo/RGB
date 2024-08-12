@@ -39,4 +39,9 @@ In this project we used C++ to represent and process RGB color images with 8-bit
 
 - median_filter ws - Apply a median filter with window size ws >= 3 to the current image.
 - xpm2_open filename - Read image stored in the XPM2 file format.
-- xpm2_save filename - Save image to the XPM2 file format. 
+- xpm2_save filename - Save image to the XPM2 file format.
+
+## Group Members
+- Maria Eduarda Rabelo
+- Clarisse Carvalho
+- Afonso Cruz
